@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Finish Python mini project",
+        "status": "not done"
+    },
+    {
+        "id": 2,
+        "title": "Buy groceries",
+        "status": "done"
+    },
+    {
+        "id": 3,
+        "title": "Buy groceries",
+        "status": "done"
+    },
+    {
+        "id": 4,
+        "title": "Clean the house",
+        "status": "not done"
+    },
+    {
+        "id": 5,
+        "title": "Submit assignment",
+        "status": "not done"
+    }
+]
